@@ -8,7 +8,7 @@
 
 <body>
           <h1>
- <img src=''<a data-ved="0CBQQjRxqFwoTCLiQxOvf2osDFQAAAAAdAAAAABAE" rel="noopener" target="_blank" href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fcreepypasta-br.fandom.com%2Fwiki%2FThis_Man_-_Esse_Homem&amp;psig=AOvVaw2jUqt2TilktmzO4Z4Lz57M&amp;ust=1740432872714000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCLiQxOvf2osDFQAAAAAdAAAAABAE" jsaction="focus:trigger.HTIQtd;mousedown:trigger.HTIQtd;touchstart:trigger.HTIQtd;;" class="YsLeY" role="link" tabindex="0" aria-label="Visitar Creepypasta br Wiki - Fandom" rlhc="1"><img src="https://static.wikia.nocookie.net/creepypasta-br/images/4/4f/1011972_727430507269792_701251570_n-1-.jpg/revision/latest?cb=20140104231033" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 207px; height: 243px; margin: 0px; width: 207px;" alt="This Man - Esse Homem | Creepypasta br Wiki | Fandom" jsname="kn3ccd" data-ilt="1740346476084" aria-hidden="false"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4k8dIfutrnP5gnLgxl7eMp2umbhfn8oU7w&amp;s" class="sFlh5c FyHeAf" alt="This Man - Esse Homem | Creepypasta br Wiki | Fandom" jsname="JuXqh" style="max-width: 207px; position: absolute; visibility: hidden;" data-ilt="1740346475386"><span class="UWuvyf">
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/3444a3f24e65a31a5419a5678febb76c14ce7aa58536293b865c1680174f11f2/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635473346b386449667574726e5035676e4c67786c37654d7032756d6268666e386f5537772673">
 </html>
 </h2> SE SIM, TENHO PÉSSIMAS NOTÍCIAS.
 </body>
