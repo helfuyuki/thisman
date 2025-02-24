@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Exemplo de Centralização</title>
     <!-- Outras informações e links a CSS externos podem ser adicionados aqui -->
 </head>
 <body>
